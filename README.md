@@ -5,3 +5,4 @@ ingin
 tidur
 
 tapi
+aku
