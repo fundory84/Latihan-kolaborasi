@@ -6,3 +6,4 @@ tidur
 
 tapi
 aku
+lapar
