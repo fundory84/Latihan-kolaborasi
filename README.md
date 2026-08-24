@@ -2,3 +2,4 @@
 
 aku
 ingin
+tidur
