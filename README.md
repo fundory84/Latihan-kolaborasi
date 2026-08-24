@@ -3,3 +3,7 @@
 aku
 ingin
 tidur
+
+tapi
+aku
+lapar
