@@ -3,3 +3,5 @@
 aku
 ingin
 tidur
+
+tapi
